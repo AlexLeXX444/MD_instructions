@@ -39,3 +39,13 @@
 Чтобы вернуться к самому последнему состоянию:
 
 git checkout master
+
+## Ветки в GIT
+Чтобы посмотреть все ветки:
+> git branch
+
+Для создания ново ветки с именем branch_info:
+> git branch branch_info
+
+Для того, чтобы переместиться к новой ветке:
+> git checkout branch_info
