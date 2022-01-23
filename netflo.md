@@ -49,3 +49,7 @@ git checkout master
 
 Для того, чтобы переместиться к новой ветке:
 > git checkout branch_info
+
+## Слияние веток и решение конфликтов
+Чтобы слить информацию из ветки branch_info в текущую:
+> git merge branch_info
