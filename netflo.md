@@ -49,3 +49,10 @@ git checkout master
 
 Для того, чтобы переместиться к новой ветке:
 > git checkout branch_info
+
+## Удаление веток
+Для того, чтобы удалить веткус именем branch_info:
+> git branch -d branch_info
+
+Удаление с игнорированием ошибок:
+> git branch -D branch_info
