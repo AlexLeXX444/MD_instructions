@@ -63,3 +63,12 @@ git checkout master
 
 Удаление с игнорированием ошибок:
 > git branch -D branch_info
+
+## Справка
+Чтобы вызвать справку по команде, нужно дописать тег:
+> --help 
+
+Примеры:
+> git branch --help
+git merge --help
+git checkout --help
