@@ -81,3 +81,6 @@
 > git merge --help
 
 > git checkout --help
+
+## Add line on english language.
+Here we add some english text.
