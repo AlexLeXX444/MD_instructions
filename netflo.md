@@ -53,3 +53,10 @@ git checkout master
 ## Слияние веток и решение конфликтов
 Чтобы слить информацию из ветки branch_info в текущую:
 > git merge branch_info
+
+## Удаление веток
+Для того, чтобы удалить веткус именем branch_info:
+> git branch -d branch_info
+
+Удаление с игнорированием ошибок:
+> git branch -D branch_info
