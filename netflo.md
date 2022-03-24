@@ -75,9 +75,3 @@
 > git merge --help
 
 > git checkout --help
-
-## Добавляем конфликт.
-Тут разместим текст на русском.
-
-## Add line on english language.
-Here we add some english text.
